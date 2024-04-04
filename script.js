@@ -16,12 +16,13 @@ let recommendedSong;
 // - Anything else, recommend "Break My Soul by Beyonce".
 
 if(mood ==="happy"){
-    console.log("Here Comes the Sun by The Beatles");
+    recommendedSong="Here Comes the Sun by The Beatles";
 }
 else if(mood === "sad"){
-    console.log("Someone Like You by Adele");
+    recommendedSong="Someone Like You by Adele";
 }
 else{
-    console.log("Break My Soul by Beyonce");
+    recommendedSong="Break My Soul by Beyonce";
 }
 // 4. Console log the recommended song.
+console.log(recommendedSong);

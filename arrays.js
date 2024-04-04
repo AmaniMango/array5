@@ -33,7 +33,7 @@ let tallestTeacher= ["giantTeacher", "buildingTeacher", "superTallTeacher"];
 console.log(tallestTeacher);
 
 // 8. Update the variable oldestMemeber to retrieve the array element of the oldest member of your family in the familyAges array. (Task 4)
-let oldestMember;
+let oldestMember =["oldGuy", "veryOldGuy", "oldestGuy"];;
 console.log(oldestMember);
 
 // Done Early?
